@@ -1,2 +1,2 @@
 # rolePlayingGame
-Ffundamental programming concepts in JavaScript by coding your own Role Playing Game
+Fundamental programming concepts in JavaScript by coding its Role Playing Game
